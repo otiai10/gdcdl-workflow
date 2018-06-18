@@ -1,0 +1,2 @@
+--env TARGET_GENOME_UUID, --output-recursive OUTDIR
+33fe59e7-3e3d-4275-b8a7-5affae8ecc8d, s3://awsub/resources/samples/MCF7

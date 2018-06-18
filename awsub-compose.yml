@@ -1,0 +1,17 @@
+introduction: Download GDC resource and convert to Fastq
+workflow:
+  image:
+    name: otiai10/gdc-client
+  script:
+    file: ./main.sh
+machine:
+  aws:
+    instance_type: m4.2xlarge
+    root_size: 64
+interface:
+  TARGET_GENOME_UUID:
+    description: GDC UUID for the resource which you want to download
+    as: --env
+  OUTDIR:
+    description: Output directory in your bucket
+    as: --output-recursive
