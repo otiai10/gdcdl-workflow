@@ -1,0 +1,2 @@
+--env TARGET_GENOME_UUID, --output-recursive OUTDIR
+9b88b1c7-7862-48dd-b914-922f1dc3e13d, s3://awsub/resources/samples/MDA-MB-361
