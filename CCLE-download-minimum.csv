@@ -1,0 +1,2 @@
+--env TARGET_GENOME_UUID, --output-recursive OUTDIR
+b5cc3b41-ce83-478a-a8da-c59cf589077e, s3://otiai10-ncc/ccle-downloads/G15509.K-562.2.bam

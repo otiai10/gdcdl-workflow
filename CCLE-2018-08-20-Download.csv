@@ -1,0 +1,13 @@
+--env TARGET_GENOME_UUID, --output-recursive OUTDIR
+ee04ea82-3604-4cdd-b2d8-9c8a3de9ba38, s3://otiai10-ncc/ccle-downloads/D4491.Solexa-178364.2.bam
+65381caa-94d6-4a2f-8d1c-a80c6493c401, s3://otiai10-ncc/ccle-downloads/G31860.HCC1954.6.bam
+b5cc3b41-ce83-478a-a8da-c59cf589077e, s3://otiai10-ncc/ccle-downloads/G15509.K-562.2.bam
+a392a7cb-6edc-4076-93c5-fccb10b01819, s3://otiai10-ncc/ccle-downloads/G31860.HCC1143.1.bam
+d41a889a-5eaa-49fd-b92c-68a0b9f07c87, s3://otiai10-ncc/ccle-downloads/G15511.HCC1143.2.bam
+164ff095-e9b4-4a90-a428-abb28ed6406c, s3://otiai10-ncc/ccle-downloads/G31860.HCC1954BL.1.bam
+c02afaa1-33b0-48a2-98de-59d2f46c00be, s3://otiai10-ncc/ccle-downloads/G15511.HCC1143_BL.2.bam
+ff1030e6-4ad9-41c7-889a-0ae8ba906861, s3://otiai10-ncc/ccle-downloads/G31860.HCC1143BL.1.bam
+530be734-e2e3-41a3-a2ed-95cbd175b4e8, s3://otiai10-ncc/ccle-downloads/D4491.Solexa-178366.3.bam
+e577fba2-38d7-4ab0-9eaa-0c1977aeb945, s3://otiai10-ncc/ccle-downloads/D4491.Solexa-178367.2.bam
+ad593308-dbbb-4017-9ce1-411965c9d774, s3://otiai10-ncc/ccle-downloads/D4491.Solexa-178365.2.bam
+bd97b46a-ed67-49ed-b06e-1144c5935825, s3://otiai10-ncc/ccle-downloads/G15512.HCC1954.5.bam

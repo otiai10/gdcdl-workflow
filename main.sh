@@ -2,6 +2,7 @@
 
 set -u
 set -v
+set -e
 
 # Download BAM
 gdc-client download ${TARGET_GENOME_UUID}
@@ -17,3 +18,4 @@ java -jar /picard.jar SamToFastq \
   I=${BAM_FILE} \
              FASTQ=${OUTDIR}/${NAME}_1.fastq \
   SECOND_END_FASTQ=${OUTDIR}/${NAME}_2.fastq
+
